@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/instant-username-search/precache-manifest.75dd38affaa80d905c6038f9da5eefd3.js"
+  "/instant-username-search/precache-manifest.32de4e54cd3c9d1f776f671207d55390.js"
 );
 
 workbox.clientsClaim();
