@@ -1,5 +1,5 @@
 {
-  "main.css": "/instant-username-search/static/css/main.5a6449b5.chunk.css",
+  "main.css": "/instant-username-search/static/css/main.854fc4df.chunk.css",
   "main.js": "/instant-username-search/static/js/main.367698b2.chunk.js",
   "main.js.map": "/instant-username-search/static/js/main.367698b2.chunk.js.map",
   "runtime~main.js": "/instant-username-search/static/js/runtime~main.49b336d9.js",
@@ -8,10 +8,10 @@
   "static/js/2.aa932075.chunk.js": "/instant-username-search/static/js/2.aa932075.chunk.js",
   "static/js/2.aa932075.chunk.js.map": "/instant-username-search/static/js/2.aa932075.chunk.js.map",
   "index.html": "/instant-username-search/index.html",
-  "precache-manifest.cf5709fdc9f0196f4e5550d868dacd78.js": "/instant-username-search/precache-manifest.cf5709fdc9f0196f4e5550d868dacd78.js",
+  "precache-manifest.06c8e3a4b7eba1ca372388f9e76177b7.js": "/instant-username-search/precache-manifest.06c8e3a4b7eba1ca372388f9e76177b7.js",
   "service-worker.js": "/instant-username-search/service-worker.js",
   "static/css/2.5fd5d36a.chunk.css.map": "/instant-username-search/static/css/2.5fd5d36a.chunk.css.map",
-  "static/css/main.5a6449b5.chunk.css.map": "/instant-username-search/static/css/main.5a6449b5.chunk.css.map",
+  "static/css/main.854fc4df.chunk.css.map": "/instant-username-search/static/css/main.854fc4df.chunk.css.map",
   "static/media/astronaut.svg": "/instant-username-search/static/media/astronaut.5bd53660.svg",
   "static/media/App.css": "/instant-username-search/static/media/stars.6494ab5b.png"
 }
