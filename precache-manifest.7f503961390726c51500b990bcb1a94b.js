@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/instant-username-search/static/js/runtime~main.49b336d9.js"
   },
   {
-    "revision": "c470e8e012a294cbf456",
-    "url": "/instant-username-search/static/js/main.dcc6d481.chunk.js"
+    "revision": "5cfa5172ec64aca656b9",
+    "url": "/instant-username-search/static/js/main.34f53ead.chunk.js"
   },
   {
     "revision": "26afed2e7deffe9a0923",
     "url": "/instant-username-search/static/js/2.20d8e044.chunk.js"
   },
   {
-    "revision": "c470e8e012a294cbf456",
-    "url": "/instant-username-search/static/css/main.16035481.chunk.css"
+    "revision": "5cfa5172ec64aca656b9",
+    "url": "/instant-username-search/static/css/main.bce5cb7a.chunk.css"
   },
   {
     "revision": "26afed2e7deffe9a0923",
     "url": "/instant-username-search/static/css/2.5fd5d36a.chunk.css"
   },
   {
-    "revision": "56bed3d5a42192002f49f0989a8eebc2",
+    "revision": "e8f355fab154049f6cf8f553bab21c6c",
     "url": "/instant-username-search/index.html"
   }
 ];
