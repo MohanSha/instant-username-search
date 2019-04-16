@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/instant-username-search/static/js/runtime~main.49b336d9.js"
   },
   {
-    "revision": "5cfa5172ec64aca656b9",
-    "url": "/instant-username-search/static/js/main.34f53ead.chunk.js"
+    "revision": "f5cb2093b3e43c5a99c6",
+    "url": "/instant-username-search/static/js/main.05dfad7b.chunk.js"
   },
   {
-    "revision": "26afed2e7deffe9a0923",
-    "url": "/instant-username-search/static/js/2.20d8e044.chunk.js"
+    "revision": "8f894791bd05e4d063d3",
+    "url": "/instant-username-search/static/js/2.6ac39dd8.chunk.js"
   },
   {
-    "revision": "5cfa5172ec64aca656b9",
-    "url": "/instant-username-search/static/css/main.bce5cb7a.chunk.css"
+    "revision": "f5cb2093b3e43c5a99c6",
+    "url": "/instant-username-search/static/css/main.c80afd80.chunk.css"
   },
   {
-    "revision": "26afed2e7deffe9a0923",
+    "revision": "8f894791bd05e4d063d3",
     "url": "/instant-username-search/static/css/2.5fd5d36a.chunk.css"
   },
   {
-    "revision": "e8f355fab154049f6cf8f553bab21c6c",
+    "revision": "3df3078bfc68ac31c8391e9340167452",
     "url": "/instant-username-search/index.html"
   }
 ];
